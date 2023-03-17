@@ -238,8 +238,3 @@ footer > .container > span {
     color: white;
     transition: all 0.3s ease;
 }
-
-.linkedin > a:hover{
-    color: cornflowerblue;
-    box-shadow: 0px 0px 10px 5px white;
-}
