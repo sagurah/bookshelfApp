@@ -220,6 +220,7 @@ main {
 footer > .container{
     display: flex;
     flex-flow: column;
+    margin: 0;
     justify-content: center;
     align-items: center;
     background-color: cornflowerblue;
